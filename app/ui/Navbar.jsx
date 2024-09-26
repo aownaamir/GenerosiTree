@@ -10,9 +10,11 @@ function Navbar() {
         {/* <h1 className="text-xl">GenerosiTree</h1> */}
       </div>
       <ul className="flex lg:gap-10 text-sm justify-center items-center">
-        <li>Home</li>
-        <li>Contact</li>
-        <li>About</li>
+        <div className="hidden lg:flex lg:gap-10">
+          <li>Home</li>
+          <li>Contact</li>
+          <li>About</li>
+        </div>
         <button className="w-[75px] text-sm h-9 border border-black rounded-lg">
           Login
         </button>

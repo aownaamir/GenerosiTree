@@ -1,8 +1,4 @@
-import Image from "next/image";
-import a1 from "@/public/images/about1.jpeg";
-import a2 from "@/public/images/about2.png";
-import QMark from "../svgs/Qmark";
-import MapMark from "../svgs/MapMark";
+import QMark from "../svgs/QMark";
 import Handshake from "../svgs/Handshake";
 import Houses from "../svgs/Houses";
 function AboutUs() {

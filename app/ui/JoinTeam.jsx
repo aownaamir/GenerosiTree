@@ -55,52 +55,6 @@ function JoinTeam() {
             </div>
           </div>
         ))}
-        {/* <div className="w-full lg:w-[250px] h-[400px] lg:h-[350px] px-4  flex flex-col justify-center items-center">
-          <div className="w-[180px] h-[180px] lg:w-[140px] lg:h-[140px] border-[7px] border-black rounded-full flex justify-center items-center text-6xl font-bold my-2">
-            1
-          </div>
-          <p className="text-md text-justify my-2">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras
-            sollicitudin nulla ac ligula feugiat consequat. Curabitur et enim
-            iaculis nunc egestas lobortis quis eget sem.
-          </p>
-        </div>
-        <div className="w-full lg:w-[250px] h-[400px] lg:h-[350px] px-4  flex flex-col justify-center items-center">
-          <div className="lg:hidden w-[180px] h-[180px] lg:w-[140px] lg:h-[140px] border-[7px] border-black rounded-full flex justify-center items-center text-6xl font-bold my-2">
-            2
-          </div>
-          <p className="text-md text-justify my-2">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras
-            sollicitudin nulla ac ligula feugiat consequat. Curabitur et enim
-            iaculis nunc egestas lobortis quis eget sem.
-          </p>
-          <div className="hidden w-[180px] h-[180px] lg:w-[140px] lg:h-[140px] border-[7px] border-black rounded-full lg:flex justify-center items-center text-6xl font-bold my-2">
-            2
-          </div>
-        </div>
-        <div className="w-full lg:w-[250px] h-[400px] lg:h-[350px] px-4  flex flex-col justify-center items-center">
-          <div className="w-[180px] h-[180px] lg:w-[140px] lg:h-[140px] border-[7px] border-black rounded-full flex justify-center items-center text-6xl font-bold my-2">
-            3
-          </div>
-          <p className="text-md text-justify my-2">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras
-            sollicitudin nulla ac ligula feugiat consequat. Curabitur et enim
-            iaculis nunc egestas lobortis quis eget sem.
-          </p>
-        </div>
-        <div className="w-full lg:w-[250px] h-[400px] lg:h-[350px] px-4  flex flex-col justify-center items-center">
-          <div className="lg:hidden w-[180px] h-[180px] lg:w-[140px] lg:h-[140px] border-[7px] border-black rounded-full flex justify-center items-center text-6xl font-bold my-2">
-            4
-          </div>
-          <p className="text-md text-justify my-2">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras
-            sollicitudin nulla ac ligula feugiat consequat. Curabitur et enim
-            iaculis nunc egestas lobortis quis eget sem.
-          </p>
-          <div className="hidden w-[180px] h-[180px] lg:w-[140px] lg:h-[140px] border-[7px] border-black rounded-full lg:flex justify-center items-center text-6xl font-bold my-2">
-            4
-          </div>
-        </div> */}
       </div>
     </div>
   );

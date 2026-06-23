@@ -4,7 +4,7 @@ A community service platform that helps conduct donations, petitions, awareness 
 
 > Built with React.js, Tailwind CSS, and modern frontend tools.
 
-![App](screenshots/app.png)
+![home](screenshots/home.png)
 
 
 ## Live Demo
@@ -86,15 +86,15 @@ generositree/
 
 ### Donations
 
-![Projects](screenshots/donations.png)
+![Donations](screenshots/donations.png)
 
 ### Awareness
 
-![Projects](screenshots/awareness.png)
+![Awareness](screenshots/awareness.png)
 
 ### Petition
 
-![Projects](screenshots/petition.png)
+![Petition](screenshots/petition.png)
 
 
 ## What I Learned
